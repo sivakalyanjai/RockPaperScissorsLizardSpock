@@ -27,5 +27,4 @@
     <ProjectReference Include="..\RPSLS.Game.Multiplayer\RPSLS.Game.Multiplayer.csproj" />
   </ItemGroup>
 
-
 </Project>
